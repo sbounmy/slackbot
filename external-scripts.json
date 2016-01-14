@@ -11,5 +11,6 @@
   "hubot-shipit",
 	"hubot-sushiyuki",
 	"hubot-codinglove",
-	"hubot-google"
+	"hubot-google",
+	"hubot-google-hangouts"
 ]
